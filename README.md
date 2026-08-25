@@ -18,6 +18,8 @@
 I build and evaluate LLM agent systems — from retrieval-augmented assistants to tool-calling
 workflows — with a background across applied ML research and hardware-aware engineering.
 
+Explore my work at [evelyn77yu.github.io](https://evelyn77yu.github.io).
+
 ### `yudian.skills()`
 
 **Core AI engineering stack** — agents, retrieval, evaluation, and full-stack delivery, proven
