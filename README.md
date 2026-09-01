@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/y-square.png" width="120" height="120" alt="Yu Dian" style="border-radius:16px" />
+<img src="assets/y.jpg" width="120" height="120" alt="Yu Dian" style="border-radius:16px" />
 
 # Hi, I'm Yu Dian 👋
 
